@@ -22,7 +22,7 @@ I am Yuchen Cai, a frontend developer, game developer and HCI explorer.
 
 <br />
 <p align = "center">
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=LucyLing24&theme=cotton-candy&radius=64">
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=rayallll&theme=cotton-candy&radius=64">
 </p>
 
 
