@@ -1,5 +1,5 @@
 ## Hi, there 👋
-I am Yuchen Cai, a frontend developer, game developer and HCI explorer.
+I am Yuchen Cai, a frontend developer, game developer, and HCI explorer.
 
 - 👩‍🎓 MsC Studnet University of Waterloo, 08/2024. Computer Engineering
 - 🎓 Queen's University - Bachelor of Computing (Honours) Computer Science in Game Development. GPA: 3.94/4.3
