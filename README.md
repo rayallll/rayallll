@@ -15,9 +15,10 @@ I am Yuchen Cai, a frontend developer, game developer, and HCI explorer.
 </p>
 
 <p align = "center">
-  <img src = "https://streak-stats.demolab.com?user=rayallll&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
+  <img src = "https://streak-stats.demolab.com?user=rayallll&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api?username=rayallll&show_icons=true&theme=dracula&border_radius=20&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayallll&layout=compact&line_height=20&theme=dracula&border_radius=20&count_private=true" /
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayallll&count_private=true&layout=compact&line_height=20&theme=dracula&border_radius=20" /
 </p>
 
 <br />
