@@ -5,7 +5,7 @@ I am Yuchen Cai, a frontend developer, game developer, and HCI explorer.
 - 👩‍🎓 MsC Studnet University of Waterloo, 08/2024. Computer Engineering
 - 🎓 Queen's University - Bachelor of Computing (Honours) Computer Science in Game Development. 
 - 🦾 TypeScript/JavaScript/React/Python/Java/C++/C#/Unity/Django
-- 💗 Research Interests: Human Computer Interaction on Interaction Design, Gamification, VR/AR. Affective Computing
+- 💗 Research Interests: HCI, Social Computing, Gamification, VR/AR.
 - 📨 Email me at -＞ racyc1116@gmail.com
 - 📺 Find Video Demo at -＞ http://www.youtube.com/@yuchencai9275
 
