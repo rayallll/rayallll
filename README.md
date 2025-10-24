@@ -3,7 +3,7 @@ I am Yuchen Cai, a frontend developer, game developer, and HCI explorer.
 
 - 👩‍🎓 PHD Studnet University of Mcmaster, 09/2025 - present. Computer Science
 - 👩‍🎓 MsC Studnet University of Waterloo, 08/2024. Computer Engineering
-- 🎓 Queen's University - Bachelor of Computing (Honours) Computer Science in Game Development. GPA: 3.94/4.3
+- 🎓 Queen's University - Bachelor of Computing (Honours) Computer Science in Game Development. 
 - 🦾 TypeScript/JavaScript/React/Python/Java/C++/C#/Unity/Django
 - 💗 Research Interests: Human Computer Interaction on Interaction Design, Gamification, VR/AR. Affective Computing
 - 📨 Email me at -＞ racyc1116@gmail.com
