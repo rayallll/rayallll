@@ -1,10 +1,10 @@
 ## Hi, there 👋
-I am Yuchen Cai, a frontend developer, game developer, and HCI explorer.
+I am Yuchen Cai, a game developer, frontend developer, and HCI explorer.
 
 - 👩‍🎓 McMaster University - PHD Student of Computer Science, 09/2025 - present. 
 - 👩‍🎓 University of Waterloo - Master of Computer Engineering
 - 🎓 Queen's University - Bachelor of Computing (Honours) Computer Science in Game Development. 
-- 🦾 TypeScript/JavaScript/React/Python/Java/C++/C#/Unity/Django
+- 🦾 C#/TypeScript/JavaScript/React/Python/Java/C++/Unity/Django
 - 💗 Research Interests: HCI, Social Computing, Gamification, VR/AR.
 - 📨 Email me at -＞ racyc1116@gmail.com
 - 📺 Find Video Demo at -＞ http://www.youtube.com/@yuchencai9275
